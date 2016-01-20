@@ -1,0 +1,25 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+header,footer,aside,main,menu,.secondary{
+float: left;
+}
+header,footer{
+    height: 10vh;
+    width:100vw;    
+}
+aside,main{
+    height: 60vh;
+}
+aside{
+    width:20vw;
+}
+main,menu{
+    width:60vw;
+}
+.secondary{
+    height: 20vh;
+}
