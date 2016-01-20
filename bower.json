@@ -1,0 +1,26 @@
+{
+  "name": "chosely-clever",
+  "homepage": "https://github.com/matgoben/chosely-clever",
+  "authors": [
+    "matgoben <matgoben@hotmail.com>"
+  ],
+  "description": "a simple choise rpg",
+  "main": "index.html",
+  "moduleType": [],
+  "keywords": [
+    "rpg",
+    "choises"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-material": "~1.0.2"
+  }
+}
