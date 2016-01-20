@@ -1,7 +1,5 @@
 {
   "directory": "lib",
   "scripts": {
-    "preinstall": "bower install angular-material",
-    "postinstall": "bower update"
   }
 }
